@@ -1,0 +1,27 @@
+# ═════════════════════════════════
+#           🐺 WOLFBOT CONFIGURATION
+# ═════════════════════════════════
+
+# ── REQUIRED ─────────────────────
+SESSION_ID=WOLF-BOT:~eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNkdJKzdjNklVbXA4a29wdjQvWlhTbDRTRlkwSHdNRm5MNURkNkZtMFMxQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiL1gvRTVJOG5tTnZGVVJTcGhVVmFOTGRva2lxRHJ3cWlTOHNEL1lGRUdFWT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIwRUZIaUdhcG03R1lwdHZ3ejNVSGtQeXFjSktTWUpXbjE4Um9oS3VZTEhNPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJmMmZxVTRWc29nbmw2elppUHBDMmVsYXdCMlY3QlJUelJ4M2ZkNDlzWHprPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjhBRkhmNitBMXdvZ3Z4ZDVwZ01LcEdYK0UzQmxRUlM1bDNYdzhvekNSSEU9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Imx2dWtqSGpBK3NwdnZnOFpCN2lOc1dPTFZwSzhIaTlVcXYwOXVJTDZjMWs9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiOE1TWXZLZ092LzR1R1RHRkZscXkzRDhuY0FZVittcHI3UEtLQTd0QkIydz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaDFPSnB4UUdNakViRkRxbDBDcldEZDQvMkNOcDltZ0RXaTdYb2VtYjRWUT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im9zMlU4SDlpRzk2UXVIdzZhWm0yRGx3WCtWL3BlWENhVjA5U2l2aXJudFJyaitka0tkd2tQNlZVdy9TTXdaR01qSm1ON1AxKzhQVVU4eEpSdG5RMGdBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NTYsImFkdlNlY3JldEtleSI6InI3KzltU0F0UmljcVR1eWJEOGFIZ3M0dWF1M3VNUkQxTk9zV3R1b2k0Y1U9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJyZWdpc3RlcmVkIjp0cnVlLCJwYWlyaW5nQ29kZSI6IkZNTUozVkczIiwibWUiOnsiaWQiOiIyMzQ4MTM2ODAwOTU2OjQ1QHMud2hhdHNhcHAubmV0IiwibmFtZSI6IuKEleG0gMqP4bScc+G0gOG0i8mqIiwibGlkIjoiMTU2Nzc1NDgzNDc0MDg5OjQ1QGxpZCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDSTN4eEtRSEVQSFpwdEFHR0FFZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiSlpsZytmRWNtUW9icktDS1l3RHZqMGhSMjdDUU5WZzhzQlNTVXZjNjUzST0iLCJhY2NvdW50U2lnbmF0dXJlIjoiLzF6M2tETTE2VWNHVzRKNG5KcGNLekVydlM4VS9tdTkrR0hoSzVrSVNvdm9FblZtM0xkd0M5TjVrSTh0ajV3dE8xbCs0MTZFWG1qMnpGaS9FUDBrQ3c9PSIsImRldmljZVNpZ25hdHVyZSI6IkhjTlQxelV1T09DaVBBeW5EL0hIRDNkMk84ZEFMVXRLNFR3VFpDMjg3L0hHUXBKaXNPc2oyYWtYREFxUVk5WHQvMVJHSW5rMnBndXgyczk3dW9BbmhnPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjM0ODEzNjgwMDk1Njo0NUBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJTV1pZUG54SEprS0c2eWdpbU1BNzQ5SVVkdXdrRFZZUExBVWtsTDNPdWR5In19XSwicGxhdGZvcm0iOiJzbWJhIiwicm91dGluZ0luZm8iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDQVVJRFFnQyJ9LCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3NzkwMTkwMDN9
+
+
+# ── OPTIONAL: PostgreSQL Database ────────────
+# Leave blank to run on SQLite only (default)
+# Supports Heroku Postgres, Supabase, Neon, Railway, etc.
+# Format: postgres://user:password@host:5432/dbname?sslmode=require
+DATABASE_URL=
+
+
+#This second part is only necessary if you will really want to use the Cpanel cmds
+
+# ── OPTIONAL: Pterodactyl Panel ─────────────
+# Only needed if you use panel/cpanel commands
+PTERODACTYL_KEY=
+PTERODACTYL_URL=
+
+# ── OPTIONAL: Paystack ───────────────────────
+# Only needed for M-Pesa STK push payments
+PAYSTACK_KEY=
+
+# ══════════════════════════════════
